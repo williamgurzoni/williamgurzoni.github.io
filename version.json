@@ -1,6 +1,6 @@
 {
   "production": {
-    "current": "3.5.10",
+    "current": "3.5.11",
     "alert": "2020-12-20",
     "mandatory": "2020-12-22",
     "notes": "Text for release notes \n- New line"
