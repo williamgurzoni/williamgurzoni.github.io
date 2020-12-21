@@ -1,0 +1,14 @@
+{
+  "production": {
+    "current": "3.5.10",
+    "alert": "2020-12-20",
+    "mandatory": "2020-12-22",
+    "notes": "Text for release notes \n- New line"
+  },
+  "beta": {
+    "current": "3.5.5",
+    "alert": "2020-12-20",
+    "mandatory": "2020-12-22",
+    "notes": "Beta Text for release notes \n- New line"
+  }
+}
