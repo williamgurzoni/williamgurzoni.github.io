@@ -1,7 +1,7 @@
 {
   "production": {
     "current": "3.5.11",
-    "minimum": "3.5.10",
+    "minimum": "3.5.9",
     "alert": "2020-12-20",
     "mandatory": "2020-12-21",
     "notes": "Text for release notes \n- New line"
